@@ -1,0 +1,15 @@
+{
+	"name": "df-azurespot",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bfb217c2-9ce6-4ae0-aa0e-83c605ef7d06",
+		"tenantId": "06ff9d2c-6f77-431f-9137-5dab223506a6"
+	}
+}
